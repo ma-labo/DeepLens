@@ -40,7 +40,7 @@ Copy the url and open it in browser.
 If you found our paper/code useful in your research, please consider citing:
 
 ```
-@inproceedings{wang2023deepseer,
+@inproceedings{song2023deeplens,
  author = {Song, Da and Wang, Zhijie and Huang, Yuheng and Ma, Lei and Zhang, Tianyi},
  title = {DeepLens: Interactive Out-of-distribution Data Detection in NLP Models},
  booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
