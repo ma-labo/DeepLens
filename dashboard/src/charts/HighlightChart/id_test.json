@@ -1,0 +1,984 @@
+{
+    "factors": [
+        [
+            [
+                0,
+                0.3417108654975891,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.359387069940567,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.3566741347312927,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.44362154603004456,
+                0.4853849411010742,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.45266756415367126,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    ],
+    "tokens": [
+        {
+            "position": 0,
+            "token": "kenton",
+            "token_id": 25446,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 1,
+            "token": "school",
+            "token_id": 2082,
+            "type": "input",
+            "color": "rgb(42, 126, 184)"
+        },
+        {
+            "position": 2,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 3,
+            "token": "an",
+            "token_id": 2019,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 4,
+            "token": "academy",
+            "token_id": 2914,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 5,
+            "token": "situated",
+            "token_id": 4350,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 6,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 7,
+            "token": "newcastle",
+            "token_id": 8142,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 8,
+            "token": "upon",
+            "token_id": 2588,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 9,
+            "token": "tyne",
+            "token_id": 17742,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 10,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 11,
+            "token": "tyne",
+            "token_id": 17742,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 12,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 13,
+            "token": "wear",
+            "token_id": 4929,
+            "type": "input",
+            "color": "rgb(255, 138, 35)"
+        },
+        {
+            "position": 14,
+            "token": "england",
+            "token_id": 2563,
+            "type": "input",
+            "color": "rgb(255, 127, 14)"
+        },
+        {
+            "position": 15,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 16,
+            "token": "it",
+            "token_id": 2009,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 17,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 18,
+            "token": "situated",
+            "token_id": 4350,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 19,
+            "token": "near",
+            "token_id": 2379,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 20,
+            "token": "kenton",
+            "token_id": 25446,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 21,
+            "token": "lane",
+            "token_id": 4644,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 22,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 23,
+            "token": "kenton",
+            "token_id": 25446,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 24,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 25,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 26,
+            "token": "one",
+            "token_id": 2028,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 27,
+            "token": "of",
+            "token_id": 1997,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 28,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 29,
+            "token": "largest",
+            "token_id": 2922,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 30,
+            "token": "academies",
+            "token_id": 20994,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 31,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 32,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 33,
+            "token": "united",
+            "token_id": 2142,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 34,
+            "token": "kingdom",
+            "token_id": 2983,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 35,
+            "token": "educating",
+            "token_id": 25088,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 36,
+            "token": "around",
+            "token_id": 2105,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 37,
+            "token": "2000",
+            "token_id": 2456,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 38,
+            "token": "pupils",
+            "token_id": 7391,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 39,
+            "token": "across",
+            "token_id": 2408,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 40,
+            "token": "key",
+            "token_id": 3145,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 41,
+            "token": "stage",
+            "token_id": 2754,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 42,
+            "token": "3",
+            "token_id": 1017,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 43,
+            "token": "to",
+            "token_id": 2000,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 44,
+            "token": "5",
+            "token_id": 1019,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 45,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 46,
+            "token": "kenton",
+            "token_id": 25446,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 47,
+            "token": "school",
+            "token_id": 2082,
+            "type": "input",
+            "color": "rgb(31, 119, 180)"
+        },
+        {
+            "position": 48,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 49,
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 50,
+            "token": "specialist",
+            "token_id": 8325,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 51,
+            "token": "arts",
+            "token_id": 2840,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 52,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 53,
+            "token": "technology",
+            "token_id": 2974,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 54,
+            "token": "school",
+            "token_id": 2082,
+            "type": "input",
+            "color": "rgb(33, 120, 181)"
+        },
+        {
+            "position": 55,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 56,
+            "token": "has",
+            "token_id": 2038,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 57,
+            "token": "been",
+            "token_id": 2042,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 58,
+            "token": "granted",
+            "token_id": 4379,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 59,
+            "token": "several",
+            "token_id": 2195,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 60,
+            "token": "marks",
+            "token_id": 6017,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 61,
+            "token": "of",
+            "token_id": 1997,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 62,
+            "token": "achievement",
+            "token_id": 6344,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 63,
+            "token": "including",
+            "token_id": 2164,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 64,
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 65,
+            "token": "gold",
+            "token_id": 2751,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 66,
+            "token": "artsmark",
+            "token_id": 2840,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 67,
+            "token": "from",
+            "token_id": 2013,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 68,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 69,
+            "token": "arts",
+            "token_id": 2840,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 70,
+            "token": "council",
+            "token_id": 2473,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 71,
+            "token": "of",
+            "token_id": 1997,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 72,
+            "token": "england",
+            "token_id": 2563,
+            "type": "input",
+            "color": "rgb(255, 136, 30)"
+        },
+        {
+            "position": 73,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 74,
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 75,
+            "token": "2008",
+            "token_id": 2263,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 76,
+            "token": "sportsmark",
+            "token_id": 2998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 77,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 78,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 79,
+            "token": "sixth",
+            "token_id": 4369,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 80,
+            "token": "form",
+            "token_id": 2433,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 81,
+            "token": "building",
+            "token_id": 2311,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 82,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 83,
+            "token": "used",
+            "token_id": 2109,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 84,
+            "token": "by",
+            "token_id": 2011,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 85,
+            "token": "both",
+            "token_id": 2119,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 86,
+            "token": "sixth",
+            "token_id": 4369,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 87,
+            "token": "formers",
+            "token_id": 2280,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 88,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 89,
+            "token": "pupils",
+            "token_id": 7391,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 90,
+            "token": "attending",
+            "token_id": 7052,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 91,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 92,
+            "token": "main",
+            "token_id": 2364,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 93,
+            "token": "academy",
+            "token_id": 2914,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 94,
+            "token": "as",
+            "token_id": 2004,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 95,
+            "token": "well",
+            "token_id": 2092,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 96,
+            "token": "as",
+            "token_id": 2004,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 97,
+            "token": "working",
+            "token_id": 2551,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 98,
+            "token": "as",
+            "token_id": 2004,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 99,
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 100,
+            "token": "local",
+            "token_id": 2334,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 101,
+            "token": "community",
+            "token_id": 2451,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 102,
+            "token": "college",
+            "token_id": 2267,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 103,
+            "token": "(",
+            "token_id": 1006,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 104,
+            "token": "kenton",
+            "token_id": 25446,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 105,
+            "token": "college",
+            "token_id": 2267,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 106,
+            "token": ")",
+            "token_id": 1007,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        },
+        {
+            "position": 107,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)"
+        }
+    ]
+}

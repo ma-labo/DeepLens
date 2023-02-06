@@ -1,0 +1,518 @@
+{
+    "tokens": [
+        {
+            "token": "[CLS]",
+            "token_id": 101,
+            "type": "input",
+            "position": 0
+        },
+        {
+            "token": "bicycle",
+            "token_id": 10165,
+            "type": "input",
+            "position": 1
+        },
+        {
+            "token": "technologies",
+            "token_id": 6786,
+            "type": "input",
+            "position": 2
+        },
+        {
+            "token": "international",
+            "token_id": 2248,
+            "type": "input",
+            "position": 3
+        },
+        {
+            "token": "ltd",
+            "token_id": 5183,
+            "type": "input",
+            "position": 4
+        },
+        {
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "position": 5
+        },
+        {
+            "token": "(",
+            "token_id": 1006,
+            "type": "input",
+            "position": 6
+        },
+        {
+            "token": "bt",
+            "token_id": 18411,
+            "type": "input",
+            "position": 7
+        },
+        {
+            "token": "##i",
+            "token_id": 2072,
+            "type": "input",
+            "position": 8
+        },
+        {
+            "token": ")",
+            "token_id": 1007,
+            "type": "input",
+            "position": 9
+        },
+        {
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "position": 10
+        },
+        {
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "position": 11
+        },
+        {
+            "token": "global",
+            "token_id": 3795,
+            "type": "input",
+            "position": 12
+        },
+        {
+            "token": "distributor",
+            "token_id": 16632,
+            "type": "input",
+            "position": 13
+        },
+        {
+            "token": "of",
+            "token_id": 1997,
+            "type": "input",
+            "position": 14
+        },
+        {
+            "token": "bicycle",
+            "token_id": 10165,
+            "type": "input",
+            "position": 15
+        },
+        {
+            "token": "components",
+            "token_id": 6177,
+            "type": "input",
+            "position": 16
+        },
+        {
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "position": 17
+        },
+        {
+            "token": "accessories",
+            "token_id": 16611,
+            "type": "input",
+            "position": 18
+        },
+        {
+            "token": "based",
+            "token_id": 2241,
+            "type": "input",
+            "position": 19
+        },
+        {
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "position": 20
+        },
+        {
+            "token": "santa",
+            "token_id": 4203,
+            "type": "input",
+            "position": 21
+        },
+        {
+            "token": "fe",
+            "token_id": 10768,
+            "type": "input",
+            "position": 22
+        },
+        {
+            "token": "nm",
+            "token_id": 13221,
+            "type": "input",
+            "position": 23
+        },
+        {
+            "token": "usa",
+            "token_id": 3915,
+            "type": "input",
+            "position": 24
+        },
+        {
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "position": 25
+        },
+        {
+            "token": "bt",
+            "token_id": 18411,
+            "type": "input",
+            "position": 26
+        },
+        {
+            "token": "##i",
+            "token_id": 2072,
+            "type": "input",
+            "position": 27
+        },
+        {
+            "token": "also",
+            "token_id": 2036,
+            "type": "input",
+            "position": 28
+        },
+        {
+            "token": "participates",
+            "token_id": 17257,
+            "type": "input",
+            "position": 29
+        },
+        {
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "position": 30
+        },
+        {
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "position": 31
+        },
+        {
+            "token": "community",
+            "token_id": 2451,
+            "type": "input",
+            "position": 32
+        },
+        {
+            "token": "through",
+            "token_id": 2083,
+            "type": "input",
+            "position": 33
+        },
+        {
+            "token": "cycling",
+            "token_id": 9670,
+            "type": "input",
+            "position": 34
+        },
+        {
+            "token": "advocacy",
+            "token_id": 12288,
+            "type": "input",
+            "position": 35
+        },
+        {
+            "token": "on",
+            "token_id": 2006,
+            "type": "input",
+            "position": 36
+        },
+        {
+            "token": "local",
+            "token_id": 2334,
+            "type": "input",
+            "position": 37
+        },
+        {
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "position": 38
+        },
+        {
+            "token": "national",
+            "token_id": 2120,
+            "type": "input",
+            "position": 39
+        },
+        {
+            "token": "levels",
+            "token_id": 3798,
+            "type": "input",
+            "position": 40
+        },
+        {
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "position": 41
+        },
+        {
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "position": 42
+        },
+        {
+            "token": "company",
+            "token_id": 2194,
+            "type": "input",
+            "position": 43
+        },
+        {
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "position": 44
+        },
+        {
+            "token": "privately",
+            "token_id": 9139,
+            "type": "input",
+            "position": 45
+        },
+        {
+            "token": "held",
+            "token_id": 2218,
+            "type": "input",
+            "position": 46
+        },
+        {
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "position": 47
+        },
+        {
+            "token": "does",
+            "token_id": 2515,
+            "type": "input",
+            "position": 48
+        },
+        {
+            "token": "not",
+            "token_id": 2025,
+            "type": "input",
+            "position": 49
+        },
+        {
+            "token": "disclose",
+            "token_id": 26056,
+            "type": "input",
+            "position": 50
+        },
+        {
+            "token": "its",
+            "token_id": 2049,
+            "type": "input",
+            "position": 51
+        },
+        {
+            "token": "sales",
+            "token_id": 4341,
+            "type": "input",
+            "position": 52
+        },
+        {
+            "token": "figures",
+            "token_id": 4481,
+            "type": "input",
+            "position": 53
+        },
+        {
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "position": 54
+        },
+        {
+            "token": "[SEP]",
+            "token_id": 102,
+            "type": "input",
+            "position": 55
+        }
+    ],
+    "factors": [
+        [
+            [
+                0,
+                0,
+                0,
+                0.2655281722545624,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.32262352108955383,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.16988347470760345,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.27039769291877747,
+                0,
+                0,
+                0,
+                0,
+                0.40464380383491516,
+                0,
+                0.4472033381462097,
+                0.14710469543933868,
+                0,
+                0,
+                0,
+                0,
+                0.15396727621555328,
+                0.11963213980197906,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.10175520181655884,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0.0857192650437355,
+                0.15614433586597443,
+                0.11931287497282028,
+                0.09569715708494186,
+                0.09795180708169937,
+                0.29852578043937683,
+                0.39165422320365906,
+                0.06919030845165253,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.2609364688396454,
+                0.3366623520851135,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.41379067301750183,
+                0.32515737414360046,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.38526391983032227,
+                0,
+                0.46188628673553467,
+                0.5033879280090332,
+                0,
+                0.5230869650840759,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.3616434633731842,
+                0.23622441291809082,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.2272249311208725,
+                0.24067415297031403,
+                0,
+                0
+            ]
+        ]
+    ]
+}

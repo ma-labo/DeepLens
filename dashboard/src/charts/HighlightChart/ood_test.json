@@ -1,0 +1,352 @@
+{
+    "factors": [
+        [
+            [
+                0.27409276366233826,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0.577054351568222,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    ],
+    "tokens": [
+        {
+            "position": 0,
+            "token": "pseudatemelia",
+            "token_id": 8827,
+            "type": "input",
+            "color": "rgb(149, 190, 219)",
+            "value": 0.27409276366233826
+        },
+        {
+            "position": 1,
+            "token": "aeneella",
+            "token_id": 29347,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 2,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 3,
+            "token": "a",
+            "token_id": 1037,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 4,
+            "token": "moth",
+            "token_id": 5820,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 5,
+            "token": "of",
+            "token_id": 1997,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 6,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 7,
+            "token": "oecophoridae",
+            "token_id": 1051,
+            "type": "input",
+            "color": "rgb(31, 119, 180)",
+            "value": 0.577054351568222
+        },
+        {
+            "position": 8,
+            "token": "family",
+            "token_id": 2155,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 9,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 10,
+            "token": "it",
+            "token_id": 2009,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 11,
+            "token": "was",
+            "token_id": 2001,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 12,
+            "token": "described",
+            "token_id": 2649,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 13,
+            "token": "by",
+            "token_id": 2011,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 14,
+            "token": "rebel",
+            "token_id": 8443,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 15,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 16,
+            "token": "1910",
+            "token_id": 4976,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 17,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 18,
+            "token": "it",
+            "token_id": 2009,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 19,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 20,
+            "token": "found",
+            "token_id": 2179,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 21,
+            "token": "in",
+            "token_id": 1999,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 22,
+            "token": "croatia",
+            "token_id": 8097,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 23,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 24,
+            "token": "bosnia",
+            "token_id": 9562,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 25,
+            "token": "and",
+            "token_id": 1998,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 26,
+            "token": "herzegovina",
+            "token_id": 11453,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 27,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 28,
+            "token": "the",
+            "token_id": 1996,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 29,
+            "token": "wingspan",
+            "token_id": 9635,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 30,
+            "token": "is",
+            "token_id": 2003,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 31,
+            "token": "10",
+            "token_id": 2184,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 32,
+            "token": "-",
+            "token_id": 1011,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 33,
+            "token": "11",
+            "token_id": 2340,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 34,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 35,
+            "token": "5",
+            "token_id": 1019,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 36,
+            "token": "mm",
+            "token_id": 3461,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        },
+        {
+            "position": 37,
+            "token": ".",
+            "token_id": 1012,
+            "type": "input",
+            "color": "rgb(255, 255, 255)",
+            "value": 0
+        }
+    ]
+}
