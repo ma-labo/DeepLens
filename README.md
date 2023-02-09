@@ -7,7 +7,7 @@ This repository contains the official implementation of our related paper:
 
 **DeepLens: Interactive Out-of-distribution Data Detection in NLP Models** 
 
-*Da Song\*, Zhijie Wang\*, Yuheng Huang, Lei Ma, Tianyi Zhang*
+*Da Song\*, Zhijie Wang\*, Yuheng Huang, Lei Ma, Tianyi Zhang* (\* Authors contributed equally to this research.)
 
 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)
 
