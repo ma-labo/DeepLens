@@ -5,7 +5,7 @@
 DeepLens is an interactive system that helps users detect and explore OOD issues in massive text corpora.
 This repository contains the official implementation of our related paper:
 
-**DeepLens: Interactive Out-of-distribution Data Detection in NLP Models** 
+[**DeepLens: Interactive Out-of-distribution Data Detection in NLP Models**](https://arxiv.org/abs/2303.01577)
 
 *Da Song\*, Zhijie Wang\*, Yuheng Huang, Lei Ma, Tianyi Zhang* (\* Authors contributed equally to this research)
 
