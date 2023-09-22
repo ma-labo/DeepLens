@@ -41,10 +41,17 @@ If you found our paper/code useful in your research, please consider citing:
 
 ```
 @inproceedings{song2023deeplens,
- author = {Song, Da and Wang, Zhijie and Huang, Yuheng and Ma, Lei and Zhang, Tianyi},
- title = {DeepLens: Interactive Out-of-distribution Data Detection in NLP Models},
- booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
- year = {2023},
+ author = {Song, Da and Wang, Zhijie and Huang, Yuheng and Ma, Lei and Zhang, Tianyi}, 
+ title = {DeepLens: Interactive Out-of-Distribution Data Detection in NLP Models}, 
+ year = {2023}, 
+ isbn = {9781450394215}, 
+ publisher = {Association for Computing Machinery}, 
+ address = {New York, NY, USA}, 
+ doi = {10.1145/3544548.3580741},
+ booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, 
+ articleno = {739}, 
+ numpages = {17}, 
+ location = {Hamburg, Germany}, series = {CHI '23}
 } 
 ```
 
